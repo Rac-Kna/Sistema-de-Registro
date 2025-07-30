@@ -2,3 +2,6 @@
 
 - Estado Del Protecto En Construcción.
 
+Para Ejecutar el Sistema, Debes Poner:
+
+```npm install React```
